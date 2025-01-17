@@ -2,6 +2,16 @@
 
 A lightweight registration portal for Jellyfin that provides a clean, modern interface for new users to create accounts. This is **not** a Jellyfin plugin, but rather a standalone registration page that works alongside your Jellyfin instance.
 
+## Preview
+
+### Welcome Screen
+![Jellyfin Welcome Screen](img/jellyfin-welcome.png)
+*The Jellyfin welcome screen that users first see*
+
+### Registration Form
+![Jellyfin Registration](img/jellyfin-register.png)
+*Clean, modern registration form for new users*
+
 ## Overview
 
 This project provides a simple way to add a registration system to your Jellyfin server without modifying the Jellyfin installation. It acts as a bridge between your users and your Jellyfin instance.
